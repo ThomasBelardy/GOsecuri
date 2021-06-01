@@ -7,5 +7,4 @@ gants
 brassard
 cyno
 talky
-lampe
 kit
