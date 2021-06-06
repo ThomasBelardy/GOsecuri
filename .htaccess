@@ -1,0 +1,4 @@
+AuthName "Acces restreint - Veuillez vous identifier"
+AuthUserFile /var/www/html/Agent/.htpasswd
+AuthType Basic
+Require valid-user
